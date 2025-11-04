@@ -3,7 +3,7 @@
 ## Network bonding is a process of combing or joining two or more network interfaces together into a single interface.
 
 Steps:-
-## Adding the Second NIC in VirtualBox:
+### Adding the Second NIC in VirtualBox:
 1. **Power Off the Virtual Machine:** Ensure the CentOS virtual machine is completely shut down, not just suspended.
 2. **Access Settings:** Open VirtualBox, right-click on your CentOS VM, and select "Settings."
 3. **Navigate to Network:** In the settings window, click on "Network."
@@ -16,7 +16,7 @@ Steps:-
 6. **Configure MAC Address (Optional):** You can note down the MAC address displayed for Adapter 2 under the "Advanced" section if you need to manually configure it later in CentOS.
 7. **Apply Changes:** Click "OK" to save the network adapter settings. 
 
-# Configuring the New Network Interface in CentOS 
+### Configuring the New Network Interface in CentOS 
 
 1. **Start the Virtual Machine:** Boot up your CentOS virtual machine:
 2. **Identify the New Interface:**
