@@ -1,4 +1,6 @@
-## Recover the instance by attaching its disk to another EC2 instance and fixing permissions
+## SSH Failed to Ec2-Instance Due to Wrong Permissions.
+
+### Recover the instance by attaching its disk to another EC2 instance and fixing permissions.
 
 ### Steps:-
 
